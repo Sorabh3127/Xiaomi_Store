@@ -1,0 +1,13 @@
+.productReview{
+    display: flex;
+    width: 90vw;
+    margin: auto;
+    justify-content:center;
+}
+
+@media(max-width: 767px){
+    .productReview{
+        display: block;
+        width: 100%;
+    }
+}

@@ -1,0 +1,11 @@
+@media(max-width:767px){
+    #bannerImage{
+        height:17rem;
+        background-size: cover;
+    }
+
+    .carousel-caption p{
+        display:none;
+    }
+}
+

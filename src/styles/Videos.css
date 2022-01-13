@@ -1,0 +1,15 @@
+.videos{
+    display: flex;
+    width: 90vw;
+    margin: auto;
+    /* justify-content: center; */
+
+}
+
+@media(max-width: 767px){
+    .videos{
+        display: block;
+        width: 100%;
+        margin: 0px;
+    }
+}
